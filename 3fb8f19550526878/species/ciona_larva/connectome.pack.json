@@ -1,0 +1,10 @@
+{
+ "name": "connectome.bin",
+ "size": 15748,
+ "sha256": "8e535e1f299d9061088aa65161374328959a9bae73a1922b1cf91751401cbaa0",
+ "gzip": false,
+ "compressed": 15748,
+ "parts": [
+  "connectome.bin.part.000"
+ ]
+}

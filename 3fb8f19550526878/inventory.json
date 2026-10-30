@@ -1,0 +1,89 @@
+{
+  "version": 1,
+  "revision": "3fb8f19550526878",
+  "species": [
+    "drosophila_male",
+    "ciona_larva"
+  ],
+  "files": [
+    {
+      "path": "species/drosophila_male/brain.json",
+      "size": 1450542,
+      "sha256": "90015a4b16c6a15fbcef823afc494d82639768350ad028f6d98e63c928b20b51"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.000",
+      "size": 20971520,
+      "sha256": "0f63dfe79c84212b906c1fb919cb470deaec3b8082a0968e74c51bba591e7d18"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.001",
+      "size": 20971520,
+      "sha256": "375a607faae3d93b15044fa70b944999d7f61dcd005b81eb152f47e23142f737"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.002",
+      "size": 20971520,
+      "sha256": "7ec2ab44be141959c7f663eaef76d705da446be019f969508de639938c34f6da"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.003",
+      "size": 20971520,
+      "sha256": "ef2bd097bbc4f7b9e2364b3b5e06714de1195ba2e09f0f5aa981d055a5805336"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.004",
+      "size": 20971520,
+      "sha256": "8037b2a49a8ce82da874c8dc747eb9adb851fe748ebffa54105a2731d949da22"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.005",
+      "size": 20971520,
+      "sha256": "4f30819b272fc523998e026d0752abe316dbd216c4c1ac3c52540eacd0e373bf"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.006",
+      "size": 20971520,
+      "sha256": "d66182bfca2b42ad11a50447e9832ede9fabccad5223a871580fe370a193c91d"
+    },
+    {
+      "path": "species/drosophila_male/connectome.bin.part.007",
+      "size": 3295900,
+      "sha256": "6cb4258718dfce49048b37511769138f03d4c88878881a4b2d629cf4e8879e81"
+    },
+    {
+      "path": "species/drosophila_male/connectome.pack.json",
+      "size": 417,
+      "sha256": "c7b088a97d114c4dae65f75a5009ffb58a25bab01a0f177ad6af8dc8477db337"
+    },
+    {
+      "path": "species/ciona_larva/brain.json",
+      "size": 15226,
+      "sha256": "ab5027a2cca51cb7a6a1ef0937602310022fd9a7b3c54e319da18f43d2afa7bb"
+    },
+    {
+      "path": "species/ciona_larva/connectome.bin.part.000",
+      "size": 15748,
+      "sha256": "8e535e1f299d9061088aa65161374328959a9bae73a1922b1cf91751401cbaa0"
+    },
+    {
+      "path": "species/ciona_larva/connectome.pack.json",
+      "size": 206,
+      "sha256": "44938b63c20aeb7017432aa1358938e20cd3e767de5cc2d5ece021f7e3e47e74"
+    }
+  ],
+  "terms": {
+    "drosophila_male": {
+      "dataset": "MaleCNS v1.0",
+      "license": "CC-BY 4.0",
+      "terms_url": "https://male-cns.janelia.org/",
+      "attribution": "CC BY 4.0; retain attribution to MaleCNS v1.0 and its authors."
+    },
+    "ciona_larva": {
+      "dataset": "Ryan et al. (2016)",
+      "license": "CC BY 4.0; retain attribution to Ryan et al. (2016), eLife 5:e16962.",
+      "terms_url": "https://elifesciences.org/articles/16962",
+      "attribution": "CC BY 4.0; retain attribution to Ryan et al. (2016), eLife 5:e16962."
+    }
+  }
+}
